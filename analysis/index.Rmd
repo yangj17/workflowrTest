@@ -8,4 +8,5 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+## Basic R programming
+[In-class assignment 1](inclass1.html)
